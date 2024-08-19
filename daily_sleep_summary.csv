@@ -1,4 +1,0 @@
-skim_type,skim_variable,n_missing,complete_rate,numeric.mean,numeric.sd,numeric.p0,numeric.p25,numeric.p50,numeric.p75,numeric.p100,numeric.hist
-numeric,total_sleep_records,0,1,1.1195121951219513,0.34663560215622863,1,1,1,1,3,▇▁▁▁▁
-numeric,total_minutes_asleep,0,1,419.17317073170733,118.63591758410318,58,361,432.5,490,796,▁▂▇▃▁
-numeric,total_time_in_bed,0,1,458.4829268292683,127.45513981879802,61,403.75,463,526,961,▁▃▇▁▁
